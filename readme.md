@@ -29,7 +29,11 @@ You can generate this CSV using a separate script that calls the OpenAI API.
 
 ## 🚀 How to Run
 
-### 1. Install Dependencies
-
+1. Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+2. Start the Web App
+
+```bash
+streamlit run app.py
