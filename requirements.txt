@@ -3,3 +3,4 @@ pandas
 rank_bm25
 openai
 tqdm
+vaderSentiment
