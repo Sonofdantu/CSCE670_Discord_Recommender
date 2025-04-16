@@ -33,8 +33,10 @@ You can generate this CSV using a separate script that calls the OpenAI API.
 
 ```bash
 pip install -r requirements.txt
+```
 
 1. Start the Web App
 
 ```bash
 streamlit run app.py
+```
