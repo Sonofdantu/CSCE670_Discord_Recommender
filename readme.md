@@ -1,4 +1,4 @@
-# 🎮 Discord Game Mention Analyzer
+# 🎮 CSCE670_Discord_Recommender
 
 This project analyzes a Discord chat log to identify which users mention specific games, using OpenAI's GPT API and BM25 ranking. It also includes a simple web UI to search game mentions and see the top users who referenced them.
 
