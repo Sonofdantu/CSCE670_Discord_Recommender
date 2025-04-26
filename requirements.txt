@@ -4,3 +4,7 @@ rank_bm25
 openai
 tqdm
 vaderSentiment
+discord.py
+scikit-learn
+nltk
+python-dotenv
