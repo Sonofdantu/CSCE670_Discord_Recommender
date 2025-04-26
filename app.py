@@ -12,7 +12,7 @@ st.set_page_config(page_title="Game Mention Finder", layout="wide")
 # —————————————
 # 2) Load data & detect text column
 # —————————————
-df = pd.read_csv("discord_author_game_music.csv")
+df = pd.read_csv("discord_author_game.csv")
 known = {"AuthorID", "Author", "Game"}
 candidates = [c for c in df.columns if c not in known]
 if not candidates:
