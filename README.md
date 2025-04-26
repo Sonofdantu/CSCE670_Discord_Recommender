@@ -49,7 +49,8 @@ The application analyzes Discord chat logs to extract information about game men
     ├── requirements.txt # Python dependencies
     └── README.md      # This file
     ```
-    ##   Recommendation Strategy
+
+##   Recommendation Strategy
 
 The application employs several strategies for recommending users:
 
